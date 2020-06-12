@@ -1,6 +1,6 @@
 const ReactionRole = require("reaction-role");
 const BookmanDB = require("bookman");
-const reactionRole = new ReactionRole.Main("NzA0ODEwMzI1OTQ5NTQ2NjA5.Xs-tow.4W4paxUMMTyGvWbl563-NOgvWsI");
+const reactionRole = new ReactionRole.Main("buraya token giriniz...");
 const clientler = reactionRole.Client();
 clientler.config = {
   prefix: "k!",
